@@ -1,0 +1,9 @@
+{
+  "name": "ticket-booking-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/booking-system/booking-ticket-server.git",
+  "author": "jing.l.malan <jing.l.malan@gmail.com>",
+  "license": "GPL3.0",
+  "private": true
+}
